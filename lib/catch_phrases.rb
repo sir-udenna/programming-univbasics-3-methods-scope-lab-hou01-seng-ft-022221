@@ -9,5 +9,12 @@ def toadstool
 end
 
 def link
-  puts "It's Dangerous To Go Alone! Take This."
+  extra = "It's Dangerous To Go Alone! Take This."
+  puts extra
+end
+
+def all
+  mario
+  toadstool
+  link
 end
