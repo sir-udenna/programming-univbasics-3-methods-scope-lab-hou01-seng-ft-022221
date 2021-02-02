@@ -13,8 +13,4 @@ def link
   puts extra
 end
 
-def all
-  mario
-  toadstool
-  link
-end
+
